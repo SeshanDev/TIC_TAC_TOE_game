@@ -1,0 +1,45 @@
+Game Type: Player vs Computer (Easy)
+Player 1 : fdss (O)
+Player 2 : Computer (X)
+Game moves -> 
+    Player 1 : 5
+    Player 2 : 7
+    Player 1 : 9
+    Player 2 : 1
+    Player 1 : 2
+    Player 2 : 8
+    Player 1 : 6
+    Player 2 : 4
+Player 2 has won the match
+_____________________________________
+
+Game Type: Player vs Computer (Easy)
+Player 1 : uyyug (O)
+Player 2 : Computer (X)
+Game moves -> 
+    Player 1 : 5
+    Player 2 : 1
+    Player 1 : 3
+    Player 2 : 7
+    Player 1 : 9
+    Player 2 : 6
+    Player 1 : 2
+    Player 2 : 8
+    Player 1 : 4
+Match has drawn
+_____________________________________
+
+Game Type: Player vs Computer (Easy)
+Player 1 : seshan (O)
+Player 2 : Computer (X)
+Game moves -> 
+    Player 1 : 5
+    Player 2 : 6
+    Player 1 : 9
+    Player 2 : 1
+    Player 1 : 8
+    Player 2 : 7
+    Player 1 : 2
+Player 1 has won the match
+_____________________________________
+
